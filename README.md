@@ -13,7 +13,7 @@ My name is Michał Podkański, currently I am IT student at the Lublin Universit
 
 - Java 1.8 - 15
 - Spring, Spring Data, Hibernate
-- Maven, 
+- Maven
 - ORM.xml mapping
 - Basics of Spring Security
 - Angular framework
@@ -22,5 +22,7 @@ My name is Michał Podkański, currently I am IT student at the Lublin Universit
 - Basics of Python, C++
 
 🌱 I’m currently learning ...
+- Docker
+- AWS
 - TDD
 - Javascript
