@@ -9,7 +9,7 @@ My name is Michał Podkański, currently I am IT student at the Lublin Universit
 |[Computer-shop](https://github.com/mmpodkanski/computer-shop-back) | CQRS, Facade, package by feature | Java 11, Spring, Hibernate, Maven, Stripe, MySQL | in progress | Simple ecommerce shop, whereby you are able to buy some computer components.
 |[TODO-app](https://github.com/mmpodkanski/spring-todo) | --- | Java 8, Spring, Hibernate, Maven, Thymeleaf, Flyway, H2 | finished | My first spring-boot application, made during Udemy course.
 
-⚡ Technologies
+⚡ Skills
 
 - Java 1.8 11
 - Spring, Spring Data, Hibernate
