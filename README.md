@@ -29,4 +29,6 @@ My name is Michał Podkański, currently I am IT student at the Lublin Universit
 - Docker
 - AWS
 
-:mailbox_with_no_mail: If you have any questions, please feel free to contact me: mmpodkanski@gmail.com
+:mailbox_with_no_mail: If you have any questions, please feel free to contact me: 
+- mmpodkanski@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/micha%C5%82-podka%C5%84ski-0b1aab162/)
