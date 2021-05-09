@@ -1,4 +1,4 @@
-👋 Hi there
+:raised_hands: Hello
 
 My name is Michał Podkański, currently I am IT student at the Lublin University of Technology.
 
@@ -24,7 +24,9 @@ My name is Michał Podkański, currently I am IT student at the Lublin Universit
 - Basics of Python, C++
 
 🌱 I’m currently learning ...
-- Docker
-- AWS
 - TDD
 - Javascript
+- Docker
+- AWS
+
+:mailbox_with_no_mail: If you have any questions, please feel free to contact me: mmpodkanski@gmail.com
