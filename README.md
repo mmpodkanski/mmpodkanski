@@ -1,6 +1,9 @@
 :raised_hands: Hello
 
 My name is Michał Podkański, currently I am IT student at the Lublin University of Technology.
+I work as Fullstack Developer (Typescript && Java)
+
+DDD enthusiast 《3
 
 📦 Projects
 |Repo | Design patterns  | Tech stack |Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|Deployed?|
