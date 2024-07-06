@@ -1,7 +1,6 @@
 :raised_hands: Hello
 
-My name is Michał Podkański, currently I am IT student at the Lublin University of Technology.
-I work as Fullstack Developer (Typescript && Java)
+My name is Michał Podkański and Im Fullstack Developer (React ts && Java)
 
 DDD enthusiast 《3
 
@@ -14,7 +13,7 @@ DDD enthusiast 《3
 
 ⚡ Skills
 
-- Java 1.8 11 15
+- Java 1.8 11 15 17 21
 - Spring, Spring Data, Hibernate
 - Spring Jpa projections
 - Spring events
